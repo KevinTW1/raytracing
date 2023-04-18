@@ -1,2 +1,2 @@
-# raytracing
+# Raytracing
 Raytracing in a weekend
